@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "https://shopapi-dusky.vercel.app/";
+const BASE_URL = "http://localhost:5000/api/";
 // const TOKEN =
 // 	"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzM2EwM2M1ZDZkMzYyODJhODFhMjUxMiIsImlzQWRtaW4iOnRydWUsImlhdCI6MTY2NDkyMzg0MSwiZXhwIjoxNjY1MTgzMDQxfQ.ec154cnsCOnJMqFRJlzbiK_Vj64tM2YsWRopbIU-2vE";
 // const TOKEN =
